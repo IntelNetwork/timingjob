@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smartworkjob-biz/smartworkjob-biz.iml" filepath="$PROJECT_DIR$/smartworkjob-biz/smartworkjob-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartworkjob-client/smartworkjob-client.iml" filepath="$PROJECT_DIR$/smartworkjob-client/smartworkjob-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartworkjob-comm/smartworkjob-comm.iml" filepath="$PROJECT_DIR$/smartworkjob-comm/smartworkjob-comm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartworkjob-job.iml" filepath="$PROJECT_DIR$/smartworkjob-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartworkjob-provider/smartworkjob-provider.iml" filepath="$PROJECT_DIR$/smartworkjob-provider/smartworkjob-provider.iml" />
+    </modules>
+  </component>
+</project>
